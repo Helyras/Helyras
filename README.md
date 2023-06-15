@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zepherria!
+- 👋 Hi, I’m @Helyras!
 - 👀 I’m interested in developing roblox games and discord bots.
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: Zepheria#5947
+- 📫 How to reach me: Helyras (Discord)
 
 <!---
 Zepherria/Zepherria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
